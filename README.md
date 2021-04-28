@@ -1,2 +1,2 @@
-# Welcome-Page
+# Welcome
 Live Project on CUIMS
